@@ -1,11 +1,31 @@
 import { useDeferredValue, useEffect, useMemo, useState, useSyncExternalStore } from 'react'
 import Markdown, { type Components } from 'react-markdown'
-import index from 'virtual:author-index'
 import licenses from '../../LICENSES.md?raw'
 
-type Author = (typeof index)[number]
+type Author = { id: number; name: string; books: number; confidence: string; summary: string; body: string; haystack: string }
 
-const files = import.meta.glob<string>('../../authors/*.md', { query: '?raw', import: 'default' })
+const files = import.meta.glob<string>('../../authors/*.md', { query: '?raw', import: 'default', eager: true })
+
+// Drops niqqud, geresh and quote marks so «רמב"ם» matches «רמב״ם».
+const normalize = (s: string) => s.replace(/[\u0591-\u05C7"'״׳־\-]/g, '').toLowerCase()
+const unlink = (s: string) => s.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+
+const index: Author[] = Object.values(files)
+  .map((text) => {
+    const field = (key: string) => text.match(new RegExp(`^${key}:\\s*(.+)$`, 'm'))?.[1].trim() ?? ''
+    return {
+      id: Number(field('id')),
+      name: unlink(text.match(/^# (.+)$/m)?.[1].trim() ?? field('name')),
+      books: Number(field('db_books')),
+      confidence: field('confidence'),
+      summary: unlink(text.match(/^## תקציר\s*\n+([^\n]+)/m)?.[1] ?? ''),
+      // Front matter and the H1 are rendered by the author header.
+      body: text.replace(/^---[\s\S]*?---\s*/, '').replace(/^# .+\n/, ''),
+    }
+  })
+  .map((a) => ({ ...a, haystack: normalize(a.name + ' ' + a.body) }))
+  .sort((a, b) => a.name.localeCompare(b.name, 'he'))
+
 const byId = new Map(index.map((a) => [a.id, a]))
 
 const CONFIDENCE: Record<string, string> = {
@@ -20,9 +40,6 @@ const subscribe = (cb: () => void) => {
   return () => removeEventListener('hashchange', cb)
 }
 const useHash = () => useSyncExternalStore(subscribe, () => location.hash.slice(1) || '/')
-
-// Drops niqqud, geresh and quote marks so «רמב"ם» matches «רמב״ם».
-const normalize = (s: string) => s.replace(/[֑-ׇ"'״׳־\-]/g, '').toLowerCase()
 
 export default function App() {
   const path = useHash()
@@ -66,7 +83,7 @@ function Home({ initialQuery }: { initialQuery: string }) {
 
   const groups = useMemo(() => {
     const q = normalize(deferred.trim())
-    const hits = q ? index.filter((a) => normalize(a.name + ' ' + a.summary).includes(q)) : index
+    const hits = q ? index.filter((a) => a.haystack.includes(q)) : index
     const map = new Map<string, Author[]>()
     for (const a of hits) {
       const letter = a.name[0]
@@ -135,16 +152,6 @@ const books = (n: number) => (n === 1 ? 'ספר אחד במאגר' : `${n} ספ�
 
 function AuthorPage({ id }: { id: number }) {
   const author = byId.get(id)
-  const [text, setText] = useState<string>()
-
-  useEffect(() => {
-    setText(undefined)
-    const load = files[`../../authors/${String(id).padStart(4, '0')}.md`]
-    load?.().then((raw) =>
-      // Front matter and the H1 are rendered by the header below.
-      setText(raw.replace(/^---[\s\S]*?---\s*/, '').replace(/^# .+\n/, '')),
-    )
-  }, [id])
 
   if (!author) return <p className="empty">המחבר לא נמצא.</p>
 
@@ -158,7 +165,7 @@ function AuthorPage({ id }: { id: number }) {
         {books(author.books)}
         {CONFIDENCE[author.confidence] && <> · {CONFIDENCE[author.confidence]}</>}
       </p>
-      {text === undefined ? <p className="loading">טוען…</p> : <Markdown components={components}>{text}</Markdown>}
+      <Markdown components={components}>{author.body}</Markdown>
     </article>
   )
 }
