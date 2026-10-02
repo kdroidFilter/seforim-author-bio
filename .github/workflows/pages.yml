@@ -20,20 +20,16 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    defaults:
-      run:
-        working-directory: site
     steps:
       - uses: actions/checkout@v5
-      - uses: actions/setup-node@v5
+      - uses: actions/setup-python@v6
         with:
-          node-version: 22
-          cache: npm
-          cache-dependency-path: site/package-lock.json
-      - run: npm ci
-      - run: npm run build
+          python-version: '3.13'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: ./build_site.sh build
       - uses: actions/upload-pages-artifact@v4
         with:
-          path: site/dist
+          path: site
       - id: deployment
         uses: actions/deploy-pages@v4
