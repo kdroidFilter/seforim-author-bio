@@ -1,0 +1,18 @@
+{
+  "batch": "041",
+  "checked": [13, 333, 283, 88],
+  "problems": [
+    {
+      "id": 88,
+      "claim": "רבי שלמה בן יצחק הנשיא",
+      "source": "https://he.wikipedia.org/wiki/%D7%99%D7%95%D7%A1%D7%A3_%D7%A7%D7%9E%D7%97%D7%99",
+      "finding": "הערך מונה בין התלמידים את שלמה בן יצחק הנסיה, לא הנשיא."
+    },
+    {
+      "id": 88,
+      "claim": "רבי שלמה בן יצחק הנשיא",
+      "source": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/kimhi-joseph",
+      "finding": "הערך כותב R. Solomon b. Isaac ha-Nesiah, כלומר הנסיה, ולא הנשיא."
+    }
+  ]
+}

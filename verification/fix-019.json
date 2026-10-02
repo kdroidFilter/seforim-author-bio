@@ -1,0 +1,56 @@
+[
+  {
+    "id": 336,
+    "file": "/Users/elie/seforim-author-biographies/authors/0336.md",
+    "problems": [
+      {
+        "claim": "ואולי היו אלה נישואים שניים",
+        "source": "https://www.yeshiva.org.il/wiki/index.php/%D7%9E%D7%94%D7%A8%22%D7%99_%D7%95%D7%99%D7%99%D7%9C",
+        "finding": "הוויקישיבה כותבת שיתכן שאחרי הנישואים בנירנברג באו נישואים שניים, ולא שהנישואים האלה עצמם היו שניים."
+      }
+    ]
+  },
+  {
+    "id": 338,
+    "file": "/Users/elie/seforim-author-biographies/authors/0338.md",
+    "problems": [
+      {
+        "claim": "אחרי פולמוס הפרישה בפרנקפורט והקמת עדת ישורון בידי תומכי רש״ר הירש, הוזמן לכהן כרבם של האורתודוקסים שנשארו",
+        "source": "https://en.wikipedia.org/wiki/M%C3%A1rkus_Horovitz",
+        "finding": "הערך כותב שמונה לעמוד בראש ועדת ריטואל כדי לפייס את חסידי רש״ר הירש, שאיימו לייסד קהילה נפרדת (Israelitische Religionsgesellschaft), ולא שהוזמן אחרי שקהילה כזו כבר קמה."
+      }
+    ]
+  },
+  {
+    "id": 345,
+    "file": "/Users/elie/seforim-author-biographies/authors/0345.md",
+    "problems": [
+      {
+        "claim": "התשובות נכתבו מאהבת ההלכה ולא בשביל שכר",
+        "source": "https://he.wikipedia.org/wiki/%D7%90%D7%9C%D7%A2%D7%96%D7%A8_%D7%A4%D7%9C%D7%A7%D7%9C%D7%A1",
+        "finding": "הערך מביא את הסבר המחבר: התשובות לא חוברו מחמת חמדת ממון אלא מאהבת התשובה, ולא מאהבת ההלכה."
+      },
+      {
+        "claim": "האנציקלופדיה היהודית מוסיפה גם את דוד גאנז בין האבות",
+        "source": "https://www.jewishencyclopedia.com/articles/6182-fleckeles-eleazar-ben-david",
+        "finding": "הערך באנציקלופדיה היהודית אינו מזכיר את דוד גאנז. את הייחוס אליו כותבת ויקיפדיה האנגלית."
+      }
+    ]
+  },
+  {
+    "id": 357,
+    "file": "/Users/elie/seforim-author-biographies/authors/0357.md",
+    "problems": [
+      {
+        "claim": "ונימק שקנאת סופרים תרבה חכמה",
+        "source": "https://he.wikipedia.org/wiki/%D7%90%D7%9C%D7%99%D7%94%D7%95_%D7%9E%D7%96%D7%A8%D7%97%D7%99",
+        "finding": "הערך כותב שנימק את ביטול החרמות בכך ש«קנאת תלמידים תרבה חכמה», ולא «קנאת סופרים»."
+      },
+      {
+        "claim": "קיצור עם תרגום לטיני יצא בבזל ב־1546 בידי סבסטיאן מינסטר",
+        "source": "https://www.jewishencyclopedia.com/articles/10894-mizrahi",
+        "finding": "האנציקלופדיה כותבת שמינסטר חיבר את הקיצור, ושהתרגום הלטיני נדפס בידי שרקנפוקס בבזל ב־1546."
+      }
+    ]
+  }
+]

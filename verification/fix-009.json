@@ -1,0 +1,71 @@
+[
+  {
+    "id": 153,
+    "file": "/Users/elie/seforim-author-biographies/authors/0153.md",
+    "problems": [
+      {
+        "claim": "ראשי תיבות של רבי יעקב דוד בן זאב",
+        "source": "https://daat.ac.il/encyclopedia/value.asp?id1=1489",
+        "finding": "הערך מפרש את רידב״ז כראשי תיבות של רינת יעקב דוד בן זאב, על שם «רנו ליעקב שמחה», ולא של רבי יעקב דוד בן זאב."
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "file": "/Users/elie/seforim-author-biographies/authors/0163.md",
+    "problems": [
+      {
+        "claim": "בלובלין נשא את ינטה־לאה",
+        "source": "https://www.jewishencyclopedia.com/articles/13474-shabbethai-b-meir-ha-kohen-shak",
+        "finding": "האנציקלופדיה כותבת שלאחר ששב לווילנה נשא את בתו של רבי שמעון וולף בן יצחק (Benimus). אין שם חתונה בלובלין."
+      },
+      {
+        "claim": "«שפתי כהן» על יורה דעה נדפס בקרקוב בשנת ת״ו (1646)",
+        "source": "https://www.jewishencyclopedia.com/articles/13474-shabbethai-b-meir-ha-kohen-shak",
+        "finding": "האנציקלופדיה כותבת שב־1646 נסע לקרקוב, ובשנה שאחריה פרסם את Sifte Kohen על יורה דעה. לפי הערך השנה היא 1647, לא 1646."
+      },
+      {
+        "claim": "ובתקציר התאריך האזרחי שלה הוא 20 בפברואר 1662",
+        "source": "https://www.jewishencyclopedia.com/articles/13474-shabbethai-b-meir-ha-kohen-shak",
+        "finding": "הערך קובע פטירה בהולשוב באחד באדר ראשון 1662, בלי תאריך אזרחי. אין בו 20 בפברואר."
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "file": "/Users/elie/seforim-author-biographies/authors/0165.md",
+    "problems": [
+      {
+        "claim": "שזה לא כבר עלה מספרד מארצות אשכנז",
+        "source": "https://he.wikipedia.org/wiki/%D7%90%D7%91%D7%90_%D7%9E%D7%A8%D7%99_%D7%94%D7%99%D7%A8%D7%97%D7%99",
+        "finding": "הערך כותב שהרא״ש היגר זמן מועט לפני כן לספרד, ולא שעלה מספרד."
+      },
+      {
+        "claim": "אביו היה בנו של רבי משולם בן יעקב מלוניל",
+        "source": "https://www.daat.ac.il/encyclopedia/value.asp?id1=2037",
+        "finding": "הערך כותב שמשולם בן יעקב מלוניל היה אבי סבו של אבא מרי, לא אביו של אביו."
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "file": "/Users/elie/seforim-author-biographies/authors/0167.md",
+    "problems": [
+      {
+        "claim": "ויקיפדיה העברית והאנגלית מפנות לפקפוק במסורת הזאת",
+        "source": "https://he.wikipedia.org/wiki/%D7%A8%D7%9C%D7%91%22%D7%92",
+        "finding": "הערך העברי קובע כאב את רבי גרשון בר שלמה מקטלוניא, מחבר «שער השמים», בלי פקפוק. הפקפוק שם הוא על הסב לוי בן אברהם ועל האגדה שהיה נכד הרמב״ן. הערך האנגלי מייחס את היותו בן לגרשון בן שלמה מקטלוניה לאברהם זכות ואחרים, ואינו מציין פקפוק ואינו מזכיר את «שער השמים»."
+      },
+      {
+        "claim": "ב־1342 כתב על סינוסים, מיתרים וקשתות",
+        "source": "https://he.wikipedia.org/wiki/%D7%A8%D7%9C%D7%91%22%D7%92",
+        "finding": "הערך העברי מתארך את «חכמת התשבורת», על סינוסים, מיתרים וקשתות, לשנת 1341, ושנה אחר כך פירוש לאוקלידס. את שנת 1342 מייחס הערך האנגלי לחיבור על הסינוסים."
+      },
+      {
+        "claim": "פירוש לפרק אגדה בבבא בתרא",
+        "source": "https://he.wikipedia.org/wiki/%D7%A8%D7%9C%D7%91%22%D7%92",
+        "finding": "הערך העברי מייחס את «מחוקק ספון» לפירוש על האגדות התמוהות בפרק חלק, ומוסיף שיש שייחסו את החיבור לחכם אחר. פרק אגדה בבבא בתרא הוא ניסוח הערך האנגלי בלבד."
+      }
+    ]
+  }
+]

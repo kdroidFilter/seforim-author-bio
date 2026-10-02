@@ -1,0 +1,51 @@
+[
+  {
+    "id": 209,
+    "file": "/Users/elie/seforim-author-biographies/authors/0209.md",
+    "problems": [
+      {
+        "claim": "את מקומו מילא בנו רבי אליעזר צבי",
+        "source": "https://chabadpedia.co.il/index.php?title=%D7%99%D7%A6%D7%97%D7%A7_%D7%90%D7%99%D7%99%D7%96%D7%99%D7%A7_%D7%99%D7%94%D7%95%D7%93%D7%94_%D7%99%D7%97%D7%99%D7%90%D7%9C_%D7%9E%D7%99%D7%9B%D7%9C_%D7%A1%D7%A4%D7%A8%D7%99%D7%9F&oldid=852190",
+        "finding": "בתבנית האדמו״רים נכתב שהבא אחריו הוא רבי חיים יעקב ספרין מקומרנא, לא בנו רבי אליעזר צבי. גוף הערך אינו דן ביורש."
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "file": "/Users/elie/seforim-author-biographies/authors/0217.md",
+    "problems": [
+      {
+        "claim": "לפי האנציקלופדיה היהודית וויקיפדיה האנגלית פרסמו תלמידיו בשנת 1277",
+        "source": "https://en.wikipedia.org/wiki/Isaac_ben_Joseph_of_Corbeil",
+        "finding": "הערך כותב שב־1277 פרסם יצחק עצמו את הסמ״ק, בעידוד תלמידיו, ולא שתלמידיו פרסמו את הספר."
+      },
+      {
+        "claim": "לפי האנציקלופדיה היהודית וויקיפדיה האנגלית פרסמו תלמידיו בשנת 1277",
+        "source": "http://www.jewishencyclopedia.com/articles/8181-isaac-ben-joseph-of-corbeil",
+        "finding": "הערך כותב שתלמידיו הביאוהו לפרסם את הקיצור בשנת 1277, כלומר שהוא שפרסם, ולא שהם פרסמו אותו."
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "file": "/Users/elie/seforim-author-biographies/authors/0228.md",
+    "problems": [
+      {
+        "claim": "נפטר ברושל פארק שבניו ג׳רזי",
+        "source": "https://www.inn.co.il/news/526937",
+        "finding": "הכתבה כותבת «בניו יורק נפטר», ולא ברושל פארק שבניו ג׳רזי."
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "file": "/Users/elie/seforim-author-biographies/authors/0234.md",
+    "problems": [
+      {
+        "claim": "רבו העיקרי, לפי שני הערכים בוויקיפדיה, היה אחיו הבכור רבי יצחק הלוי סגל",
+        "source": "https://he.wikipedia.org/wiki/%D7%98%22%D7%96",
+        "finding": "הערך העברי כותב שלמד אצל אחיו הגדול, אך את רבי יואל סירקיש הוא מכנה «רבו המובהק», ובטבלת הרבותיו נמנים שניהם. שהאח הוא הרב העיקרי נאמר רק בערך האנגלי."
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "batch": "027",
+  "checked": [180, 93, 286, 32],
+  "problems": [
+    {
+      "id": 180,
+      "claim": "למד כשנתיים אצל רבי רפאל זיסקינד... ואחר כך אצל רבי אריה לייב גינצבורג",
+      "source": "https://www.jewishencyclopedia.com/articles/7375-hayyim-ben-isaac-of-volozhin-hayyim-volozhiner",
+      "finding": "הערך כותב שלמד תחילה אצל ר׳ אריה ליב גינצבורג, שהיה אז רב וולוז׳ין, ורק אחר כך אצל ר׳ רפאל הכהן, לימים מהמבורג."
+    }
+  ]
+}

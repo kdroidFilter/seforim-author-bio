@@ -1,0 +1,24 @@
+{
+  "batch": "088",
+  "checked": [76, 163, 354, 323],
+  "problems": [
+    {
+      "id": 163,
+      "claim": "בלובלין נשא את ינטה־לאה",
+      "source": "https://www.jewishencyclopedia.com/articles/13474-shabbethai-b-meir-ha-kohen-shak",
+      "finding": "האנציקלופדיה כותבת שלאחר ששב לווילנה נשא את בתו של רבי שמעון וולף בן יצחק (Benimus). אין שם חתונה בלובלין."
+    },
+    {
+      "id": 163,
+      "claim": "«שפתי כהן» על יורה דעה נדפס בקרקוב בשנת ת״ו (1646)",
+      "source": "https://www.jewishencyclopedia.com/articles/13474-shabbethai-b-meir-ha-kohen-shak",
+      "finding": "האנציקלופדיה כותבת שב־1646 נסע לקרקוב, ובשנה שאחריה פרסם את Sifte Kohen על יורה דעה. לפי הערך השנה היא 1647, לא 1646."
+    },
+    {
+      "id": 163,
+      "claim": "ובתקציר התאריך האזרחי שלה הוא 20 בפברואר 1662",
+      "source": "https://www.jewishencyclopedia.com/articles/13474-shabbethai-b-meir-ha-kohen-shak",
+      "finding": "הערך קובע פטירה בהולשוב באחד באדר ראשון 1662, בלי תאריך אזרחי. אין בו 20 בפברואר."
+    }
+  ]
+}

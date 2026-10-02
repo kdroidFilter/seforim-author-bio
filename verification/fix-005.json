@@ -1,0 +1,61 @@
+[
+  {
+    "id": 83,
+    "file": "/Users/elie/seforim-author-biographies/authors/0083.md",
+    "problems": [
+      {
+        "claim": "הספר כמעט אינו נשען על פסוק או על מאמר חז״ל",
+        "source": "https://web.archive.org/web/20111016122648/http://jewishencyclopedia.com/view.jsp?artid=17&letter=I",
+        "finding": "על «מקור חיים» נאמר שיש בו אי־תלות גמורה ומוחלטת בדוגמה הדתית היהודית, ושאין בו אף פסוק מן המקרא ואף לא שורה מחז״ל."
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "file": "/Users/elie/seforim-author-biographies/authors/0084.md",
+    "problems": [
+      {
+        "claim": "אחיינו של אברהם היה רבי יונה גירונדי",
+        "source": "https://he.wikipedia.org/wiki/%D7%A8%D7%9E%D7%91%22%D7%9F",
+        "finding": "הערך העברי כותב שלאמו היו שני אחים, אברהם ויוסף, ובנו של אברהם היה רבי יונה גירונדי, לא אחיינו."
+      },
+      {
+        "claim": "ארבעה ימים לא רצופים, כ׳, כ״ז, ל׳ ול״א ביולי",
+        "source": "https://en.wikipedia.org/wiki/Nachmanides",
+        "finding": "הערך האנגלי כותב שהוויכוח נמשך ארבעה ימים, מ־20 עד 24 ביולי, ולא את 27, 30 ו־31 ביולי. את הימים הלא־רצופים כותב הערך העברי."
+      },
+      {
+        "claim": "ב־1267 הגיע כתב מקלמנס הרביעי, והרמב״ן עזב את ספרד. הגיע לירושלים בה׳כ״ז (1267)",
+        "source": "https://en.wikipedia.org/wiki/Nachmanides",
+        "finding": "הערך האנגלי כותב שאחרי שיצא מאראגון שהה שלוש שנים בקסטיליה או בדרום צרפת, ורק ב־1267 עלה לירושלים. אין שם יציאה מספרד והגעה לירושלים באותה שנה בעקבות כתב מ־1267."
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "file": "/Users/elie/seforim-author-biographies/authors/0088.md",
+    "problems": [
+      {
+        "claim": "רבי שלמה בן יצחק הנשיא",
+        "source": "https://he.wikipedia.org/wiki/%D7%99%D7%95%D7%A1%D7%A3_%D7%A7%D7%9E%D7%97%D7%99",
+        "finding": "הערך מונה בין התלמידים את שלמה בן יצחק הנסיה, לא הנשיא."
+      },
+      {
+        "claim": "רבי שלמה בן יצחק הנשיא",
+        "source": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/kimhi-joseph",
+        "finding": "הערך כותב R. Solomon b. Isaac ha-Nesiah, כלומר הנסיה, ולא הנשיא."
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "file": "/Users/elie/seforim-author-biographies/authors/0089.md",
+    "problems": [
+      {
+        "claim": "את הזוהר הוא מצטט בשם «מדרש יהי אור»",
+        "source": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/al-nakawa-israel-ben-joseph",
+        "finding": "הערך כותב שהזוהר מצוטט בשם Midrash Tehi Or, ולא בשם מדרש יהי אור."
+      }
+    ]
+  }
+]

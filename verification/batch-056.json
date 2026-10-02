@@ -1,0 +1,18 @@
+{
+  "batch": "056",
+  "checked": [329, 332, 89, 172],
+  "problems": [
+    {
+      "id": 89,
+      "claim": "את הזוהר הוא מצטט בשם «מדרש יהי אור»",
+      "source": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/al-nakawa-israel-ben-joseph",
+      "finding": "הערך כותב שהזוהר מצוטט בשם Midrash Tehi Or, ולא בשם מדרש יהי אור."
+    },
+    {
+      "id": 172,
+      "claim": "פירושו ל«רוח חן» נדפס ביסניץ בשנת 1744",
+      "source": "https://www.jewishencyclopedia.com/articles/8287-israel-ben-moses-ha-levi-of-zamosc",
+      "finding": "הערך מסמן את מקום הדפוס ב־ib. מיד אחרי דיהרנפורט של «נזד הדמע», כלומר דיהרנפורט 1744, ולא יסניץ."
+    }
+  ]
+}

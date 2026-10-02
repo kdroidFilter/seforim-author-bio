@@ -1,0 +1,56 @@
+[
+  {
+    "id": 123,
+    "file": "/Users/elie/seforim-author-biographies/authors/0123.md",
+    "problems": [
+      {
+        "claim": "האנציקלופדיה היהודית הישנה מקדימה את הלידה בטעות לסוף המאה ה־16",
+        "source": "https://www.jewishencyclopedia.com/articles/1961-ashkenazi-bezalel",
+        "finding": "העמוד כותב שנולד לקראת סוף המאה השש־עשרה, דהיינו עשרות שנים אחרי 1520 בערך, ולא מקדים את הלידה."
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "file": "/Users/elie/seforim-author-biographies/authors/0125.md",
+    "problems": [
+      {
+        "claim": "פרנסי העיר העמידו את שתי הדרכים להצבעה, הרז״א ניצח ונתמנה לרב העיר, והמהר״ם חזר לביתו, והמהרש״א פסק שכל אחד יחזור למקומו",
+        "source": "https://en.wikipedia.org/wiki/Meir_Lublin",
+        "finding": "הערך האנגלי מתאר מכתב לשלמה אבוהב מאמסטרדם שהכריע לטובת שמעון וולף. הפרנסים ביקשו להדיח את המהר״ם מראשות הישיבה, אך שמעון וולף סירב, והמהרש״א שכנע להשאיר את שניהם."
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "file": "/Users/elie/seforim-author-biographies/authors/0133.md",
+    "problems": [
+      {
+        "claim": "משה טאקו, שאינו המהר״ם המתנגד הידוע",
+        "source": "https://en.wikipedia.org/wiki/Mordecai_ben_Hillel",
+        "finding": "הערך כותב שהעורר היה Moses Tako מסוים, ולא משה טאקו המפורסם, ולא שהוא נבדל מן המהר״ם."
+      },
+      {
+        "claim": "משה טאקו, שאינו המהר״ם המתנגד הידוע",
+        "source": "https://www.jewishencyclopedia.com/articles/10991-mordecai-b-hillel-b-hillel",
+        "finding": "הערך כותב שמשה טאקו זה אינו המתנגד הידוע להרמב״ם (the well-known anti-Maimonist), לא שאינו המהר״ם."
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "file": "/Users/elie/seforim-author-biographies/authors/0137.md",
+    "problems": [
+      {
+        "claim": "ויקיפדיה מייחסת את הכתיבה באותן שנים לבנו הבחור רבי שמעון הירש",
+        "source": "https://he.wikipedia.org/wiki/%D7%A0%D7%AA%D7%A0%D7%90%D7%9C_%D7%95%D7%99%D7%99%D7%9C",
+        "finding": "הערך כותב שבשוורצוואלד כתב נתנאל את חציו ורובו של הספר יחד עם בנו הבחור ר' שמעון הירש, ולא שהכתיבה מיוחסת לבן."
+      },
+      {
+        "claim": "«דעת» כותבת שהיה בן 84, אף שהיא נותנת אותן שנות לידה ופטירה",
+        "source": "https://www.daat.ac.il/encyclopedia/value.asp?id1=1903",
+        "finding": "הערך נותן רק את הפטירה בראשטאדט בל' בניסן תקכ\"ט (7.5.1769) בגיל 84, ואינו נותן שנת לידה."
+      }
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "id": 176,
+    "file": "/Users/elie/seforim-author-biographies/authors/0176.md",
+    "problems": [
+      {
+        "claim": "בשנת ה׳של״ג (1573) עזב את הרבנות ועבר לפראג כאדם פרטי",
+        "source": "https://en.wikipedia.org/wiki/Judah_Loew_ben_Bezalel",
+        "finding": "הערך האנגלי כותב שב־1573 עבר לפראג וקיבל שוב משרת רבנות, במקום יצחק חיות שפרש, ולא כאדם פרטי."
+      },
+      {
+        "claim": "בשנת ה׳שמ״ג (1583) מת רב העיר ומחסידי הפלפול נתמנה תחתיו רבי יצחק חיות",
+        "source": "https://en.wikipedia.org/wiki/Judah_Loew_ben_Bezalel",
+        "finding": "הערך האנגלי אינו מתאר ב־1583 מות רב העיר ומינוי יצחק חיות תחת המהר״ל. הוא כותב שהמהר״ל עצמו החליף ב־1573 את יצחק חיות שפרש."
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "file": "/Users/elie/seforim-author-biographies/authors/0178.md",
+    "problems": [
+      {
+        "claim": "הנין רבי יוסף («יושעה») ריבלין",
+        "source": "https://he.wikipedia.org/wiki/%D7%A7%D7%95%D7%9C_%D7%94%D7%AA%D7%95%D7%A8",
+        "finding": "הערך קורא לרב יוסף ריבלין «נכדו» של הלל, לא נינו."
+      },
+      {
+        "claim": "פזמונים של נכדו, הרב יוסף ריבלין",
+        "source": "https://he.wikipedia.org/wiki/%D7%94%D7%9C%D7%9C_%D7%A8%D7%99%D7%91%D7%9C%D7%99%D7%9F",
+        "finding": "הערך קורא לרב יוסף (יושעה) ריבלין «נינו» של הלל, לא נכדו."
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "file": "/Users/elie/seforim-author-biographies/authors/0180.md",
+    "problems": [
+      {
+        "claim": "למד כשנתיים אצל רבי רפאל זיסקינד... ואחר כך אצל רבי אריה לייב גינצבורג",
+        "source": "https://www.jewishencyclopedia.com/articles/7375-hayyim-ben-isaac-of-volozhin-hayyim-volozhiner",
+        "finding": "הערך כותב שלמד תחילה אצל ר׳ אריה ליב גינצבורג, שהיה אז רב וולוז׳ין, ורק אחר כך אצל ר׳ רפאל הכהן, לימים מהמבורג."
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "file": "/Users/elie/seforim-author-biographies/authors/0181.md",
+    "problems": [
+      {
+        "claim": "בסוף חורף תק״ע יצא, דרך קושטא, לגייס כספים בליטא",
+        "source": "https://www.jewishencyclopedia.com/articles/8291-israel-ben-samuel-ashkenazi-of-shklov",
+        "finding": "הערך כותב שאחרי שנים אחדות בארץ יצא לאירופה כשד״ר ועבר בליטא וברוסיה, ולא בסוף חורף תק״ע."
+      },
+      {
+        "claim": "בסוף חורף תק״ע יצא, דרך קושטא, לגייס כספים בליטא",
+        "source": "https://en.wikipedia.org/wiki/Israel_of_Shklov",
+        "finding": "הערך כותב שהתיישב בצפת ב־1810, ורק כמה שנים אחר כך נסע לליטא ולרוסיה לגייס כספים, ולא בסוף חורף תק״ע."
+      }
+    ]
+  }
+]

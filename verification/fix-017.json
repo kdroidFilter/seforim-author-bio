@@ -1,0 +1,61 @@
+[
+  {
+    "id": 301,
+    "file": "/Users/elie/seforim-author-biographies/authors/0301.md",
+    "problems": [
+      {
+        "claim": "בסוף הספר מפתח ובו תמצית הפרקים",
+        "source": "https://asif.co.il/wp-content/uploads/2021/04/60-3.pdf",
+        "finding": "התקציר כותב שהסימנים הם חטיבה עצמאית בתחילת החיבור, והם המפתח לנושאים ותקציר ההכרעות, לא מפתח בסוף הספר."
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "file": "/Users/elie/seforim-author-biographies/authors/0303.md",
+    "problems": [
+      {
+        "claim": "ביקש רב אחא להפיץ בבבל את תורת הישיבות בארץ ישראל",
+        "source": "https://he.wikipedia.org/wiki/%D7%A8%D7%91_%D7%90%D7%97%D7%90_%D7%9E%D7%A9%D7%91%D7%97%D7%90",
+        "finding": "הערך כותב שגינצבורג טען שבעלייתו לארץ ישראל פעל רב אחא להפצת תורת ישיבות בבל, במאבק בין המרכז הבבלי למרכז הארצישראלי, ולא להפצת תורת ארץ ישראל בבבל."
+      },
+      {
+        "claim": "מיעט כתבי היד שלפנינו יוצאים מאב נוסח אחד, למול כתב יד ששון",
+        "source": "https://he.wikipedia.org/wiki/%D7%A9%D7%90%D7%99%D7%9C%D7%AA%D7%95%D7%AA_%D7%93%D7%A8%D7%91_%D7%90%D7%97%D7%90",
+        "finding": "הערך כותב שמתוך תשעת כתבי היד, לשמונה אב משותף אחד, ורק כתב יד ששון עומד מולם — הרוב, לא המיעוט."
+      }
+    ]
+  },
+  {
+    "id": 310,
+    "file": "/Users/elie/seforim-author-biographies/authors/0310.md",
+    "problems": [
+      {
+        "claim": "האר״י עלה ממצרים בשנת של״ל (1570)",
+        "source": "https://he.wikipedia.org/wiki/%D7%97%D7%99%D7%99%D7%9D_%D7%95%D7%99%D7%98%D7%9C",
+        "finding": "הערך כותב שהאר״י עלה ממצרים בשנת 1570 (ה׳ש״ל), לא בשנת של״ל. גם חב״דפדיה כותבת ה׳ש״ל."
+      },
+      {
+        "claim": "חב״דפדיה אומרת ש«עץ חיים» זה נשאר גנוז ולא נדפס בחייו",
+        "source": "https://chabadpedia.co.il/index.php?title=%D7%A8%D7%91%D7%99_%D7%97%D7%99%D7%99%D7%9D_%D7%95%D7%99%D7%98%D7%90%D7%9C",
+        "finding": "הדף כותב שהספר «נשאר גנוז אצלו ולא הודפס על ימינו», כלומר לא בימינו, ולא «בחייו»."
+      }
+    ]
+  },
+  {
+    "id": 312,
+    "file": "/Users/elie/seforim-author-biographies/authors/0312.md",
+    "problems": [
+      {
+        "claim": "שו״ת עקרים ויסודות לחכמת הנסתר",
+        "source": "https://he.wikipedia.org/wiki/%D7%A2%D7%96%D7%A8%D7%90_%D7%95%D7%A2%D7%96%D7%A8%D7%99%D7%90%D7%9C_%D7%9E%D7%92%D7%99%D7%A8%D7%95%D7%A0%D7%94",
+        "finding": "הערך כותב שהדפוס בברדיטשוב תקנ״ח נקרא «שו״ת עקרים ויסודים לחכמת הנסתר», ולא «יסודות»."
+      },
+      {
+        "claim": "פירוש אגדות, שיצא לאור בידי תשבי בירושלים בשנת תש״ה (1945)",
+        "source": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/azriel-gerona",
+        "finding": "האנציקלופדיה יודאיקה כותבת שמהדורת תשבי לפירוש האגדות יצאה בירושלים בשנת 1943, ולא בתש״ה (1945)."
+      }
+    ]
+  }
+]

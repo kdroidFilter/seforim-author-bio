@@ -1,0 +1,12 @@
+{
+  "batch": "019",
+  "checked": [25, 18, 16, 51],
+  "problems": [
+    {
+      "id": 18,
+      "claim": "הערך האנגלי מסכים ... על הקבורה באניפולי לצד רבי זושא",
+      "source": "https://en.wikipedia.org/wiki/Dov_Ber_of_Mezeritch",
+      "finding": "בפסקת השם נכתב שבסוף ימיו נודע כמגיד מרובנו, «the town where he was buried», כלומר שנקבר ברובנו. בפסקת הפטירה נכתב שנקבר באניפולי לצד רבי זושא."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "id": 53,
+    "file": "/Users/elie/seforim-author-biographies/authors/0053.md",
+    "problems": [
+      {
+        "claim": "נכתב שידע רוסית ואהב לנגן, ושאחד מניגוניו נעשה כמעט שיר עם",
+        "source": "https://chabadpedia.co.il/index.php/%D7%99%D7%A6%D7%97%D7%A7_%D7%90%D7%99%D7%99%D7%96%D7%99%D7%A7_%D7%9E%D7%94%D7%95%D7%9E%D7%99%D7%9C",
+        "finding": "הציטוט מהצפירה אומר שידע רוסית וכטוב לבו ביין אהב לדבר רוסית, ואחד משיריו נעשה כמעט שיר עם. לא נכתב שאהב לנגן, והעורך מוסיף שאי אפשר לקבוע אם הניגונים שלו."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "file": "/Users/elie/seforim-author-biographies/authors/0055.md",
+    "problems": [
+      {
+        "claim": "חסידיו כונו ביידיש «חסידי המת»",
+        "source": "https://he.wikipedia.org/wiki/%D7%A0%D7%97%D7%9E%D7%9F_%D7%9E%D7%91%D7%A8%D7%A1%D7%9C%D7%91",
+        "finding": "הערך כותב שכונו «חסידי המת», ובסוגריים שהיידיש היא «טויטער חסידים»."
+      },
+      {
+        "claim": "שלוש בנות, אדל, שרה ומרים, הגיעו לנישואין",
+        "source": "https://he.wikipedia.org/wiki/%D7%A0%D7%97%D7%9E%D7%9F_%D7%9E%D7%91%D7%A8%D7%A1%D7%9C%D7%91",
+        "finding": "בפירוט הצאצאים גם הבת חיה נישאה, תחילה לזלמן לוברסקי ואחר כך לאהרן קלוצקר. המשפט «שלוש מבנותיו זכו להתחתן ולהביא ילדים» אינו מוחק את נישואי חיה."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "file": "/Users/elie/seforim-author-biographies/authors/0060.md",
+    "problems": [
+      {
+        "claim": "רק ב־1546, בוונציה, תבע אליהו את זכותו והוציא מהדורה מתוקנת",
+        "source": "https://he.wikipedia.org/wiki/%D7%90%D7%9C%D7%99%D7%94%D7%95_%D7%91%D7%97%D7%95%D7%A8",
+        "finding": "הערך כותב ש«מהלך שבילי הדעת» של ר' משה קמחי יצא לאור על ידי אליהו כבר בשנת 1508, בתוספת הערותיו."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "file": "/Users/elie/seforim-author-biographies/authors/0063.md",
+    "problems": [
+      {
+        "claim": "בראשית המלחמה נשא את שולמית",
+        "source": "https://fr.wikipedia.org/wiki/Mosh%C3%A9_Catane",
+        "finding": "הערך הצרפתי כותב שנישא לסלמה פייסט ב־1941, ולא בראשית המלחמה."
+      }
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "batch": "057",
+  "checked": [47, 339, 207, 181],
+  "problems": [
+    {
+      "id": 47,
+      "claim": "האנציקלופדיה יודאיקה מונה את אותם שלושה, ומוסיף שהיה מיודד עם רבי לוי יצחק מברדיצ'ב",
+      "source": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/kozienice-israel-ben-shabbetai-hapstein",
+      "finding": "הערך מונה את לוי יצחק מברדיצ'ב בין רבותיו, יחד עם שמואל שמלקה, המגיד ממזריטש ואלימלך מליז'נסק, ומוסיף שהיה עמו ביחסי ידידות."
+    },
+    {
+      "id": 181,
+      "claim": "בסוף חורף תק״ע יצא, דרך קושטא, לגייס כספים בליטא",
+      "source": "https://www.jewishencyclopedia.com/articles/8291-israel-ben-samuel-ashkenazi-of-shklov",
+      "finding": "הערך כותב שאחרי שנים אחדות בארץ יצא לאירופה כשד״ר ועבר בליטא וברוסיה, ולא בסוף חורף תק״ע."
+    },
+    {
+      "id": 181,
+      "claim": "בסוף חורף תק״ע יצא, דרך קושטא, לגייס כספים בליטא",
+      "source": "https://en.wikipedia.org/wiki/Israel_of_Shklov",
+      "finding": "הערך כותב שהתיישב בצפת ב־1810, ורק כמה שנים אחר כך נסע לליטא ולרוסיה לגייס כספים, ולא בסוף חורף תק״ע."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "batch": "071",
+  "checked": [91, 63, 374, 115],
+  "problems": [
+    {
+      "id": 63,
+      "claim": "בראשית המלחמה נשא את שולמית",
+      "source": "https://fr.wikipedia.org/wiki/Mosh%C3%A9_Catane",
+      "finding": "הערך הצרפתי כותב שנישא לסלמה פייסט ב־1941, ולא בראשית המלחמה."
+    },
+    {
+      "id": 115,
+      "claim": "«חקור דבר» נדפס במונקאטש בתרס״א",
+      "source": "https://en.wikipedia.org/wiki/Moshe_Shmuel_Glasner",
+      "finding": "הערך האנגלי מתארך את Haqor Davar ל־1908, לא לתרס״א."
+    }
+  ]
+}

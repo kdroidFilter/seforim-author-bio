@@ -1,0 +1,56 @@
+[
+  {
+    "id": 169,
+    "file": "/Users/elie/seforim-author-biographies/authors/0169.md",
+    "problems": [
+      {
+        "claim": "שמו העברי המלא «חסדאי ב״ר יהודה ב״ר חסדאי»",
+        "source": "https://moreshet-morocco.com/2024/06/17/%D7%A8%D7%91%D7%99-%D7%97%D7%A1%D7%93%D7%90%D7%99-%D7%A7%D7%A8%D7%A9%D7%A7%D7%A9-%D7%96%D7%90%D7%91-%D7%94%D7%A8%D7%95%D7%99/",
+        "finding": "העמוד מצטט את השם המלא: חסדאי ב״ר יהודה ב״ר חסדאי ב״ר יהודה ב״ר חסדאי ב״ר יהודה"
+      },
+      {
+        "claim": "נשא את טולרנה",
+        "source": "https://he.wikipedia.org/wiki/%D7%97%D7%A1%D7%93%D7%90%D7%99_%D7%A7%D7%A8%D7%A9%D7%A7%D7%A9",
+        "finding": "העמוד כותב שסביב 1360 נשא אישה בשם טורלנה, לא טולרנה"
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "file": "/Users/elie/seforim-author-biographies/authors/0172.md",
+    "problems": [
+      {
+        "claim": "פירושו ל«רוח חן» נדפס ביסניץ בשנת 1744",
+        "source": "https://www.jewishencyclopedia.com/articles/8287-israel-ben-moses-ha-levi-of-zamosc",
+        "finding": "הערך מסמן את מקום הדפוס ב־ib. מיד אחרי דיהרנפורט של «נזד הדמע», כלומר דיהרנפורט 1744, ולא יסניץ."
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "file": "/Users/elie/seforim-author-biographies/authors/0173.md",
+    "problems": [
+      {
+        "claim": "תרגום עברי נוסף בידי הרב יוסף קאפח, בשנת תשל״ג (1973) לפי ויקיפדיה, אין מחלוקת בין הערכים",
+        "source": "https://he.wikipedia.org/wiki/%D7%AA%D7%95%D7%A8%D7%AA_%D7%97%D7%95%D7%91%D7%95%D7%AA_%D7%94%D7%9C%D7%91%D7%91%D7%95%D7%AA",
+        "finding": "ערך הספר כותב שהרב יוסף קפאח תרגם את הספר מחדש בשנת 1984 (ה'תשמ\"ד), ולא בשנת 1973. את שנת תשל\"ג (1973) כותב רק ערך המחבר."
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "file": "/Users/elie/seforim-author-biographies/authors/0175.md",
+    "problems": [
+      {
+        "claim": "סבו, מנדל פרנקפורטר, היה אב״ד אלטונה",
+        "source": "https://www.jewishencyclopedia.com/articles/2891-ben-uzziel",
+        "finding": "הערך קורא לו מייסד תלמוד התורה בהמבורג ועוזר־רב ללא שכר של קהילת אלטונה, לא אב בית דין."
+      },
+      {
+        "claim": "ב־1854 ייסד וערך את הירחון «ישורון»",
+        "source": "https://www.jewishencyclopedia.com/articles/2891-ben-uzziel",
+        "finding": "הערך כותב שייסד וערך את Jeschurun בשנים 1855–1870, ובסדרה חדשה מ־1882, לא ב־1854."
+      }
+    ]
+  }
+]
